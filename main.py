@@ -46,7 +46,7 @@ def check_password():
     def login_form():
         st.title("AlphaPredict")
         st.write("[Help improve AlphaPredict](mailto:feedback@neuralbytes.net?subject=AlphaPredict%20Feedback)")
-        st.write("Signup for IntergalacticPro [here](https://alphapredict-signup.neuralbytes.net)")
+        st.write("Signup for AlphaPredict [here](https://alphapredict-signup.neuralbytes.net)")
 
         st.header("Login Form")
         with st.form("Credentials"):
