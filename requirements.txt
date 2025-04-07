@@ -1,0 +1,6 @@
+streamlit
+yfinance
+plotly
+openai
+pyrebase4
+google-cloud-firestore
